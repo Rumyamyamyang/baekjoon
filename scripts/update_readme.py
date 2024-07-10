@@ -74,7 +74,8 @@ def get_solution_path(id):
   files.sort()
   solution = ""
   for file in files:
-    solution += f"[{ext[file[file.rfind('.'):]]}](https://github.com/Rumyamyamyang/baekjoon/blob/main/{file}) "
+    url = f"https://github.com/Rumyamyamyang/baekjoon/blob/main/{os.path.normpath(file).replace(os.sep, '/')}"
+    solution += f"[{ext[os.path.splitext(file)[1]]}]({url}) "
   return solution
 
 # README.md 헤더를 반환
