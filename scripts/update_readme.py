@@ -42,7 +42,7 @@ def get_problem_tier(level):
     21: "Diamond V", 22: "Diamond IV", 23: "Diamond III", 24: "Diamond II", 25: "Diamond I",
     26: "Ruby V", 27: "Ruby IV", 28: "Ruby III", 29: "Ruby II", 30: "Ruby I"
   }
-  # return f"![{tier[level]}](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/{level}.svg)"
+  # return f"![{tier[level]}](https://raw.githubusercontent.com/rumia0528/Baekjoon/main/assets/tier/{level}.svg)"
   return tier[level]
 
 # 문제 번호를 입력받아 솔루션 경로를 모두 반환 (문자열로)
@@ -74,7 +74,7 @@ def get_solution_path(id):
   files.sort()
   solution = ""
   for file in files:
-    solution += f"[{ext[file[file.rfind('.'):]]}](https://github.com/Hiyabye/Baekjoon/blob/main/{file}) "
+    solution += f"[{ext[file[file.rfind('.'):]]}](https://github.com/Rumyamyamyang/baekjoon/blob/main/{file}) "
   return solution
 
 # README.md 헤더를 반환
@@ -109,20 +109,20 @@ def get_table(problems):
 # 메인 함수
 if __name__ == "__main__":
   # solved.ac API로 푼 문제 수 가져오기
-  solved_count = get_solved_count("hiyabye")
+  solved_count = get_solved_count("rumia0528")
   pages = (solved_count - 1) // 50 + 1
   problems = []
 
   # solved.ac API로 문제 정보 가져오기
   print(f"Getting problems from {pages} pages...")
   for page in tqdm(range(1, pages+1)):
-    solved = get_problems("hiyabye", page)
+    solved = get_problems("rumia0528", page)
     for problem in solved["items"]:
       problems.append((int(problem["problemId"]), problem["titleKo"], int(problem["level"])))
 
   # README.md 파일 업데이트
   with open("README.md.tmp", "w", encoding="utf-8") as f:
-    f.write(get_header("hiyabye") + get_table(problems))
+    f.write(get_header("rumia0528") + get_table(problems))
 
   # README.md.tmp과 README.md을 비교하여 변경사항이 있으면 업데이트
   # 이때 첫 9줄은 헤더이므로 비교에서 제외
