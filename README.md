@@ -12,7 +12,7 @@
 
 [MIT License](/LICENSE)
 
-마지막 업데이트: 2024-07-10 22:48:30 (KST)
+마지막 업데이트: 2024-07-12 11:57:48 (KST)
 
 목록이 길기에 단축키 `Ctrl+F`로 문제를 찾아주세요!
 
@@ -76,6 +76,7 @@
 | [5337](https://www.acmicpc.net/problem/5337) | 웰컴 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/05xxx/05337.cpp) |
 | [5338](https://www.acmicpc.net/problem/5338) | 마이크로소프트 로고 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/05xxx/05338.cpp) |
 | [5339](https://www.acmicpc.net/problem/5339) | 콜센터 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/05xxx/05339.cpp) |
+| [5585](https://www.acmicpc.net/problem/5585) | 거스름돈 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/05xxx/05585.cpp) |
 | [5596](https://www.acmicpc.net/problem/5596) | 시험 점수 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/05xxx/05596.cpp) |
 | [5597](https://www.acmicpc.net/problem/5597) | 과제 안 내신 분..? | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/05xxx/05597.cpp) |
 | [5622](https://www.acmicpc.net/problem/5622) | 다이얼 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/05xxx/05622.cpp) |
@@ -134,8 +135,10 @@
 | [17295](https://www.acmicpc.net/problem/17295) | 엔드게임 스포일러 | Unrated | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/17xxx/17295.cpp) |
 | [17350](https://www.acmicpc.net/problem/17350) | 2루수 이름이 뭐야 | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/17xxx/17350.cpp) |
 | [18108](https://www.acmicpc.net/problem/18108) | 1998년생인 내가 태국에서는 2541년생?! | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/18xxx/18108.cpp) |
+| [18512](https://www.acmicpc.net/problem/18512) | 점프 점프 | Bronze I | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/18xxx/18512.cpp) |
 | [19944](https://www.acmicpc.net/problem/19944) | 뉴비의 기준은 뭘까? | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/19xxx/19944.cpp) |
 | [23795](https://www.acmicpc.net/problem/23795) | 사장님 도박은 재미로 하셔야 합니다 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/23xxx/23795.cpp) |
+| [24510](https://www.acmicpc.net/problem/24510) | 시간복잡도를 배운 도도 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/24xxx/24510.cpp) |
 | [25083](https://www.acmicpc.net/problem/25083) | 새싹 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/25xxx/25083.cpp) |
 | [25304](https://www.acmicpc.net/problem/25304) | 영수증 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/25xxx/25304.cpp) |
 | [25314](https://www.acmicpc.net/problem/25314) | 코딩은 체육과목 입니다 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/25xxx/25314.cpp) |
@@ -143,6 +146,7 @@
 | [26574](https://www.acmicpc.net/problem/26574) | Copier | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/26xxx/26574.cpp) |
 | [27434](https://www.acmicpc.net/problem/27434) | 팩토리얼 3 | Bronze V | [Python](https://github.com/Rumyamyamyang/baekjoon/blob/main/27xxx/27434.py) |
 | [27866](https://www.acmicpc.net/problem/27866) | 문자와 문자열 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/27xxx/27866.cpp) |
+| [27880](https://www.acmicpc.net/problem/27880) | Gahui and Soongsil University station | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/27xxx/27880.cpp) |
 | [28235](https://www.acmicpc.net/problem/28235) | 코드마스터 2023 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/28xxx/28235.cpp) |
 | [28249](https://www.acmicpc.net/problem/28249) | Chili Peppers | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/28xxx/28249.cpp) |
 | [28295](https://www.acmicpc.net/problem/28295) | 체육은 코딩과목 입니다 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/28xxx/28295.cpp) |
