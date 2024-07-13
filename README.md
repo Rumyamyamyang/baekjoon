@@ -12,7 +12,7 @@
 
 [MIT License](/LICENSE)
 
-마지막 업데이트: 2024-07-12 11:57:48 (KST)
+마지막 업데이트: 2024-07-13 09:43:21 (KST)
 
 목록이 길기에 단축키 `Ctrl+F`로 문제를 찾아주세요!
 
@@ -152,5 +152,6 @@
 | [28295](https://www.acmicpc.net/problem/28295) | 체육은 코딩과목 입니다 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/28xxx/28295.cpp) |
 | [29751](https://www.acmicpc.net/problem/29751) | 삼각형 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/29xxx/29751.cpp) |
 | [30008](https://www.acmicpc.net/problem/30008) | 준영이의 등급 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/30xxx/30008.cpp) |
+| [30802](https://www.acmicpc.net/problem/30802) | 웰컴 키트 | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/30xxx/30802.cpp) |
 | [30999](https://www.acmicpc.net/problem/30999) | 민주주의 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/30xxx/30999.cpp) |
 | [31403](https://www.acmicpc.net/problem/31403) | $A + B - C$ | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/31xxx/31403.cpp) |
