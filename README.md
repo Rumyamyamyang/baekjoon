@@ -12,7 +12,7 @@
 
 [MIT License](/LICENSE)
 
-마지막 업데이트: 2024-07-16 09:43:55 (KST)
+마지막 업데이트: 2024-07-16 10:04:12 (KST)
 
 목록이 길기에 단축키 `Ctrl+F`로 문제를 찾아주세요!
 
@@ -33,6 +33,7 @@
 | [1924](https://www.acmicpc.net/problem/1924) | 2007년 | Bronze I | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/01xxx/01924.cpp) |
 | [1978](https://www.acmicpc.net/problem/1978) | 소수 찾기 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/01xxx/01978.cpp) |
 | [2153](https://www.acmicpc.net/problem/2153) | 소수 단어 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02153.cpp) |
+| [2231](https://www.acmicpc.net/problem/2231) | 분해합 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02231.cpp) |
 | [2309](https://www.acmicpc.net/problem/2309) | 일곱 난쟁이 | Bronze I | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02309.cpp) |
 | [2420](https://www.acmicpc.net/problem/2420) | 사파리월드 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02420.cpp) |
 | [2438](https://www.acmicpc.net/problem/2438) | 별 찍기 - 1 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02438.cpp) |
