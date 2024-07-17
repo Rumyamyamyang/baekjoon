@@ -12,7 +12,7 @@
 
 [MIT License](/LICENSE)
 
-마지막 업데이트: 2024-07-16 10:04:12 (KST)
+마지막 업데이트: 2024-07-17 18:24:44 (KST)
 
 목록이 길기에 단축키 `Ctrl+F`로 문제를 찾아주세요!
 
@@ -82,6 +82,7 @@
 | [5596](https://www.acmicpc.net/problem/5596) | 시험 점수 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/05xxx/05596.cpp) |
 | [5597](https://www.acmicpc.net/problem/5597) | 과제 안 내신 분..? | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/05xxx/05597.cpp) |
 | [5622](https://www.acmicpc.net/problem/5622) | 다이얼 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/05xxx/05622.cpp) |
+| [6840](https://www.acmicpc.net/problem/6840) | Who is in the middle? | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/06xxx/06840.cpp) |
 | [7287](https://www.acmicpc.net/problem/7287) | 등록 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/07xxx/07287.cpp) |
 | [7595](https://www.acmicpc.net/problem/7595) | Triangles | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/07xxx/07595.cpp) |
 | [8393](https://www.acmicpc.net/problem/8393) | 합 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/08xxx/08393.cpp) |
