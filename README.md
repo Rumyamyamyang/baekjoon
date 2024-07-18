@@ -12,7 +12,7 @@
 
 [MIT License](/LICENSE)
 
-마지막 업데이트: 2024-07-17 18:24:44 (KST)
+마지막 업데이트: 2024-07-18 14:48:03 (KST)
 
 목록이 길기에 단축키 `Ctrl+F`로 문제를 찾아주세요!
 
@@ -83,6 +83,7 @@
 | [5597](https://www.acmicpc.net/problem/5597) | 과제 안 내신 분..? | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/05xxx/05597.cpp) |
 | [5622](https://www.acmicpc.net/problem/5622) | 다이얼 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/05xxx/05622.cpp) |
 | [6840](https://www.acmicpc.net/problem/6840) | Who is in the middle? | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/06xxx/06840.cpp) |
+| [6887](https://www.acmicpc.net/problem/6887) | Squares | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/06xxx/06887.cpp) |
 | [7287](https://www.acmicpc.net/problem/7287) | 등록 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/07xxx/07287.cpp) |
 | [7595](https://www.acmicpc.net/problem/7595) | Triangles | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/07xxx/07595.cpp) |
 | [8393](https://www.acmicpc.net/problem/8393) | 합 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/08xxx/08393.cpp) |
@@ -147,6 +148,7 @@
 | [25314](https://www.acmicpc.net/problem/25314) | 코딩은 체육과목 입니다 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/25xxx/25314.cpp) |
 | [26209](https://www.acmicpc.net/problem/26209) | Intercepting Information | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/26xxx/26209.cpp) |
 | [26574](https://www.acmicpc.net/problem/26574) | Copier | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/26xxx/26574.cpp) |
+| [27110](https://www.acmicpc.net/problem/27110) | 특식 배부 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/27xxx/27110.cpp) |
 | [27434](https://www.acmicpc.net/problem/27434) | 팩토리얼 3 | Bronze V | [Python](https://github.com/Rumyamyamyang/baekjoon/blob/main/27xxx/27434.py) |
 | [27866](https://www.acmicpc.net/problem/27866) | 문자와 문자열 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/27xxx/27866.cpp) |
 | [27880](https://www.acmicpc.net/problem/27880) | Gahui and Soongsil University station | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/27xxx/27880.cpp) |
