@@ -12,7 +12,7 @@
 
 [MIT License](/LICENSE)
 
-마지막 업데이트: 2024-07-18 14:48:03 (KST)
+마지막 업데이트: 2024-07-19 12:06:27 (KST)
 
 목록이 길기에 단축키 `Ctrl+F`로 문제를 찾아주세요!
 
@@ -131,6 +131,7 @@
 | [15552](https://www.acmicpc.net/problem/15552) | 빠른 A+B | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/15xxx/15552.cpp) |
 | [15727](https://www.acmicpc.net/problem/15727) | 조별과제를 하려는데 조장이 사라졌다 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/15xxx/15727.cpp) |
 | [15733](https://www.acmicpc.net/problem/15733) | 나는 누구인가 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/15xxx/15733.cpp) |
+| [15820](https://www.acmicpc.net/problem/15820) | 맞았는데 왜 틀리죠? | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/15xxx/15820.cpp) |
 | [15962](https://www.acmicpc.net/problem/15962) | 새로운 시작 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/15xxx/15962.cpp) |
 | [15964](https://www.acmicpc.net/problem/15964) | 이상한 기호 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/15xxx/15964.cpp) |
 | [16394](https://www.acmicpc.net/problem/16394) | 홍익대학교 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/16xxx/16394.cpp) |
