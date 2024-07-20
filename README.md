@@ -12,7 +12,7 @@
 
 [MIT License](/LICENSE)
 
-마지막 업데이트: 2024-07-19 12:06:27 (KST)
+마지막 업데이트: 2024-07-20 22:53:38 (KST)
 
 목록이 길기에 단축키 `Ctrl+F`로 문제를 찾아주세요!
 
@@ -29,6 +29,7 @@
 | [1330](https://www.acmicpc.net/problem/1330) | 두 수 비교하기 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/01xxx/01330.cpp) |
 | [1546](https://www.acmicpc.net/problem/1546) | 평균 | Bronze I | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/01xxx/01546.cpp) |
 | [1550](https://www.acmicpc.net/problem/1550) | 16진수 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/01xxx/01550.cpp) |
+| [1855](https://www.acmicpc.net/problem/1855) | 암호 | Bronze I | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/01xxx/01855.cpp) |
 | [1920](https://www.acmicpc.net/problem/1920) | 수 찾기 | Silver IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/01xxx/01920.cpp) |
 | [1924](https://www.acmicpc.net/problem/1924) | 2007년 | Bronze I | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/01xxx/01924.cpp) |
 | [1978](https://www.acmicpc.net/problem/1978) | 소수 찾기 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/01xxx/01978.cpp) |
@@ -153,6 +154,7 @@
 | [27434](https://www.acmicpc.net/problem/27434) | 팩토리얼 3 | Bronze V | [Python](https://github.com/Rumyamyamyang/baekjoon/blob/main/27xxx/27434.py) |
 | [27866](https://www.acmicpc.net/problem/27866) | 문자와 문자열 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/27xxx/27866.cpp) |
 | [27880](https://www.acmicpc.net/problem/27880) | Gahui and Soongsil University station | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/27xxx/27880.cpp) |
+| [28062](https://www.acmicpc.net/problem/28062) | 준석이의 사탕 사기 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/28xxx/28062.cpp) |
 | [28235](https://www.acmicpc.net/problem/28235) | 코드마스터 2023 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/28xxx/28235.cpp) |
 | [28249](https://www.acmicpc.net/problem/28249) | Chili Peppers | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/28xxx/28249.cpp) |
 | [28295](https://www.acmicpc.net/problem/28295) | 체육은 코딩과목 입니다 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/28xxx/28295.cpp) |
