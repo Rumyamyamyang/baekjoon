@@ -4,63 +4,28 @@
 
 int main()
 {
-	int row{ 0 }, col{ 0 };
+	constexpr int inputAmount{ 3 };
 	std::string input;
 
+	int num{ 0 };
 
-	// Initialize vector size
-	std::cin >> col;
-	std::cin >> input;
-	int inputSize = static_cast<int>(input.size());
-
-	// 15 : col 3 row 5
-	row = inputSize / col;
-	
-	// 16 : col 3 row 6
-	if (inputSize % col != 0)
+	for (int i = 0; i < inputAmount; ++i)
 	{
-		++row;
-	}
+		std::cin >> input;
 
-	// Create privateKey table
-	std::vector<std::vector<char>> privateKey(row, std::vector<char>(col));
-
-	int index{ 0 };
-	for (int i = 0; i < row; ++i)
-	{
-		for (int j = 0; j < col; ++j)
+		// Check first number string
+		try
 		{
-			if (index < inputSize)
+			if (num == 0)
 			{
-				if (i % 2 == 0)
-				{
-					privateKey[i][j] = input[index];
-				}
-				else
-				{
-					privateKey[i][col - j - 1] = input[index];
-				}
-				++index;
+				num = std::stoi(input) + inputAmount - i;
 			}
-			else
-			{
-				privateKey[i][j] = '?';
-			}
+		}
+		catch (std::invalid_argument)
+		{
+			continue;
 		}
 	}
 
-	// Output original
-	for (int i = 0; i < col; ++i)
-	{
-		for (int j = 0; j < row; ++j)
-		{
-			char c = privateKey[j][i];
-			if (c != '?')
-			{
-				std::cout << c;
-			}
-		}
-	}
-
-	return 0;
+	std::cout << num;
 }
