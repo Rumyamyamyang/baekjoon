@@ -1,48 +1,69 @@
 #include <iostream>
-#include <vector>
-#include <string>
+
+struct Time 
+{
+	int hour{ 0 };
+	int minute{ 0 };
+	int second{ 0 };
+};
 
 int main()
 {
-	constexpr int inputAmount{ 3 };
-	std::string string;
+	Time first, second;
+	char partition{ ':' };
+	int temp{ 0 }, secondDiff{ 0 };
 
-	int num{ 0 };
+	constexpr int hourMax{ 24 }, minsecMax{ 60 };
+	constexpr int hourToSec{ 3600 }, minToSec{ 60 };
 
-	for (int i = 0; i < inputAmount; ++i)
+	// Input two times
+	std::cin >> first.hour >> partition >> first.minute >> partition >> first.second;
+	std::cin >> second.hour >> partition >> second.minute >> partition >> second.second;
+
+	// Second
+	temp = second.second - first.second;
+
+	if (temp < 0)
 	{
-		std::cin >> string;
-
-		// Check first number string
-		try
-		{
-			if (num == 0)
-			{
-				num = std::stoi(string) + inputAmount - i;
-			}
-		}
-		catch (std::invalid_argument)
-		{
-			continue;
-		}
+		temp += minsecMax;
+		++first.minute;
 	}
 
-	if (num % 3 == 0 && num % 5 == 0)
+	secondDiff += temp;
+
+	// Minute
+	if (first.minute == minsecMax)
 	{
-		string = "FizzBuzz";
-	}
-	else if (num % 3 == 0)
-	{
-		string = "Fizz";
-	}
-	else if (num % 5 == 0)
-	{
-		string = "Buzz";
-	}
-	else
-	{
-		string = std::to_string(num);
+		first.minute = 0;
+		++first.hour;
 	}
 
-	std::cout << string;
+	temp = second.minute - first.minute;
+
+	if (temp < 0)
+	{
+		temp += minsecMax;
+		++first.minute;
+	}
+
+	secondDiff += temp * minToSec;
+
+	// Hour
+	first.hour %= hourMax;
+
+	temp = second.hour - first.hour;
+
+
+	if (temp < 0)
+	{
+		temp += hourMax;
+	}
+
+	secondDiff += temp * hourToSec;
+
+
+	// Output
+	std::cout << secondDiff;
+
+	return 0;
 }
