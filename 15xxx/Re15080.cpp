@@ -1,3 +1,5 @@
+// Better Code from : https://codecollector.tistory.com/1242
+
 #include <iostream>
 
 struct Time 
