@@ -1,39 +1,22 @@
 #include <iostream>
-
-struct Time 
-{
-	int hour{ 0 };
-	int minute{ 0 };
-	int second{ 0 };
-};
+#include <string>
 
 int main()
 {
-	Time first, second;
-	char partition{ ':' };
-	int firstSecond{ 0 }, secondSecond{ 0 }, secondDiff{ 0 };
+	std::string a, b;
+	long long sum{ 0 };
 
-	constexpr int hourMax{ 24 };
-	constexpr int hourToSec{ 3600 }, minToSec{ 60 };
+	std::cin >> a >> b;
 
-	// Input two times
-	std::cin >> first.hour >> partition >> first.minute >> partition >> first.second;
-	std::cin >> second.hour >> partition >> second.minute >> partition >> second.second;
-
-	// Obtain each second
-	firstSecond = first.hour * hourToSec + first.minute * minToSec + first.second;
-	secondSecond = second.hour * hourToSec + second.minute * minToSec + second.second;
-
-	// Get second difference
-	secondDiff = secondSecond - firstSecond;
-	
-	if (secondDiff < 0)
+	for (int i = 0; i < a.size(); ++i)
 	{
-		secondDiff += hourToSec * hourMax;
+		for (int j = 0; j < b.size(); ++j)
+		{
+			sum += static_cast<int>(a[i] - '0') * static_cast<int>(b[j] - '0');
+		}
 	}
 
-	// Output
-	std::cout << secondDiff;
+	std::cout << sum;
 
 	return 0;
 }

@@ -22,7 +22,7 @@
 
 # 안내사항
 
-마지막 업데이트: 2024-07-25 22:13:49 (KST)
+마지막 업데이트: 2024-07-27 01:22:12 (KST)
 
 목록이 길기에 단축키 `Ctrl+F`로 문제를 찾아주세요!
 
@@ -34,6 +34,8 @@
 | [1085](https://www.acmicpc.net/problem/1085) | 직사각형에서 탈출 | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/01xxx/01085.cpp) |
 | [1152](https://www.acmicpc.net/problem/1152) | 단어의 개수 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/01xxx/01152.cpp) |
 | [1157](https://www.acmicpc.net/problem/1157) | 단어 공부 | Bronze I | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/01xxx/01157.cpp) |
+| [1212](https://www.acmicpc.net/problem/1212) | 8진수 2진수 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/01xxx/01212.cpp) |
+| [1225](https://www.acmicpc.net/problem/1225) | 이상한 곱셈 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/01xxx/01225.cpp) |
 | [1259](https://www.acmicpc.net/problem/1259) | 팰린드롬수 | Bronze I | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/01xxx/01259.cpp) |
 | [1316](https://www.acmicpc.net/problem/1316) | 그룹 단어 체커 | Silver V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/01xxx/01316.cpp) |
 | [1330](https://www.acmicpc.net/problem/1330) | 두 수 비교하기 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/01xxx/01330.cpp) |
@@ -174,6 +176,7 @@
 | [29751](https://www.acmicpc.net/problem/29751) | 삼각형 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/29xxx/29751.cpp) |
 | [30008](https://www.acmicpc.net/problem/30008) | 준영이의 등급 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/30xxx/30008.cpp) |
 | [30030](https://www.acmicpc.net/problem/30030) | 스위트콘 가격 구하기 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/30xxx/30030.cpp) |
+| [30045](https://www.acmicpc.net/problem/30045) | ZOAC 6 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/30xxx/30045.cpp) |
 | [30802](https://www.acmicpc.net/problem/30802) | 웰컴 키트 | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/30xxx/30802.cpp) |
 | [30999](https://www.acmicpc.net/problem/30999) | 민주주의 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/30xxx/30999.cpp) |
 | [31403](https://www.acmicpc.net/problem/31403) | $A + B - C$ | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/31xxx/31403.cpp) |

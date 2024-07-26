@@ -1,10 +1,12 @@
+// https://x.com/rumya_study/status/1816849291572576519
+
 #include <iostream>
 #include <string>
 
 int main()
 {
 	std::string a, b;
-	int sum{ 0 };
+	long long sum{ 0 };
 
 	std::cin >> a >> b;
 
