@@ -22,7 +22,7 @@
 
 # 안내사항
 
-마지막 업데이트: 2024-07-27 01:22:12 (KST)
+마지막 업데이트: 2024-07-29 22:44:52 (KST)
 
 목록이 길기에 단축키 `Ctrl+F`로 문제를 찾아주세요!
 
@@ -166,6 +166,7 @@
 | [26574](https://www.acmicpc.net/problem/26574) | Copier | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/26xxx/26574.cpp) |
 | [27110](https://www.acmicpc.net/problem/27110) | 특식 배부 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/27xxx/27110.cpp) |
 | [27434](https://www.acmicpc.net/problem/27434) | 팩토리얼 3 | Bronze V | [Python](https://github.com/Rumyamyamyang/baekjoon/blob/main/27xxx/27434.py) |
+| [27494](https://www.acmicpc.net/problem/27494) | 2023년은 검은 토끼의 해 | Bronze I | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/27xxx/27494.cpp) |
 | [27866](https://www.acmicpc.net/problem/27866) | 문자와 문자열 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/27xxx/27866.cpp) |
 | [27880](https://www.acmicpc.net/problem/27880) | Gahui and Soongsil University station | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/27xxx/27880.cpp) |
 | [28062](https://www.acmicpc.net/problem/28062) | 준석이의 사탕 사기 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/28xxx/28062.cpp) |
