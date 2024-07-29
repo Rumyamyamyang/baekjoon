@@ -22,7 +22,7 @@
 
 # 안내사항
 
-마지막 업데이트: 2024-07-29 22:44:52 (KST)
+마지막 업데이트: 2024-07-29 23:59:52 (KST)
 
 목록이 길기에 단축키 `Ctrl+F`로 문제를 찾아주세요!
 
@@ -39,6 +39,7 @@
 | [1259](https://www.acmicpc.net/problem/1259) | 팰린드롬수 | Bronze I | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/01xxx/01259.cpp) |
 | [1316](https://www.acmicpc.net/problem/1316) | 그룹 단어 체커 | Silver V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/01xxx/01316.cpp) |
 | [1330](https://www.acmicpc.net/problem/1330) | 두 수 비교하기 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/01xxx/01330.cpp) |
+| [1343](https://www.acmicpc.net/problem/1343) | 폴리오미노 | Silver V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/01xxx/01343.cpp) |
 | [1546](https://www.acmicpc.net/problem/1546) | 평균 | Bronze I | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/01xxx/01546.cpp) |
 | [1550](https://www.acmicpc.net/problem/1550) | 16진수 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/01xxx/01550.cpp) |
 | [1855](https://www.acmicpc.net/problem/1855) | 암호 | Bronze I | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/01xxx/01855.cpp) |
