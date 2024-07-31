@@ -1,3 +1,5 @@
+// https://x.com/rumya_study/status/1818656881449328768
+
 #include <iostream>
 #include <vector>
 #include <cmath>

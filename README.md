@@ -22,7 +22,7 @@
 
 # 안내사항
 
-마지막 업데이트: 2024-07-31 23:01:32 (KST)
+마지막 업데이트: 2024-07-31 23:37:50 (KST)
 
 목록이 길기에 단축키 `Ctrl+F`로 문제를 찾아주세요!
 
@@ -103,6 +103,7 @@
 | [8393](https://www.acmicpc.net/problem/8393) | 합 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/08xxx/08393.cpp) |
 | [8958](https://www.acmicpc.net/problem/8958) | OX퀴즈 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/08xxx/08958.cpp) |
 | [9086](https://www.acmicpc.net/problem/9086) | 문자열 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/09xxx/09086.cpp) |
+| [9317](https://www.acmicpc.net/problem/9317) | Monitor DPI | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/09xxx/09317.cpp) |
 | [9498](https://www.acmicpc.net/problem/9498) | 시험 성적 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/09xxx/09498.cpp) |
 | [9653](https://www.acmicpc.net/problem/9653) | 스타워즈 로고 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/09xxx/09653.cpp) |
 | [10039](https://www.acmicpc.net/problem/10039) | 평균 점수 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/10xxx/10039.cpp) |
