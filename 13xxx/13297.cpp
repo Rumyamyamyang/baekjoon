@@ -1,3 +1,5 @@
+// https://x.com/rumya_study/status/1818642858410434720
+
 #include <iostream>
 #include <string>
 #include <vector>
