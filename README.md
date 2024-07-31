@@ -22,7 +22,7 @@
 
 # 안내사항
 
-마지막 업데이트: 2024-07-31 22:13:15 (KST)
+마지막 업데이트: 2024-07-31 22:31:24 (KST)
 
 목록이 길기에 단축키 `Ctrl+F`로 문제를 찾아주세요!
 
@@ -175,6 +175,7 @@
 | [28235](https://www.acmicpc.net/problem/28235) | 코드마스터 2023 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/28xxx/28235.cpp) |
 | [28249](https://www.acmicpc.net/problem/28249) | Chili Peppers | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/28xxx/28249.cpp) |
 | [28295](https://www.acmicpc.net/problem/28295) | 체육은 코딩과목 입니다 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/28xxx/28295.cpp) |
+| [28701](https://www.acmicpc.net/problem/28701) | 세제곱의 합 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/28xxx/28701.cpp) |
 | [28702](https://www.acmicpc.net/problem/28702) | FizzBuzz | Bronze I | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/28xxx/28702.cpp) |
 | [29751](https://www.acmicpc.net/problem/29751) | 삼각형 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/29xxx/29751.cpp) |
 | [30008](https://www.acmicpc.net/problem/30008) | 준영이의 등급 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/30xxx/30008.cpp) |
