@@ -22,7 +22,7 @@
 
 # 안내사항
 
-마지막 업데이트: 2024-07-31 22:41:37 (KST)
+마지막 업데이트: 2024-07-31 23:01:32 (KST)
 
 목록이 길기에 단축키 `Ctrl+F`로 문제를 찾아주세요!
 
@@ -157,6 +157,7 @@
 | [17295](https://www.acmicpc.net/problem/17295) | 엔드게임 스포일러 | Unrated | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/17xxx/17295.cpp) |
 | [17350](https://www.acmicpc.net/problem/17350) | 2루수 이름이 뭐야 | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/17xxx/17350.cpp) |
 | [18108](https://www.acmicpc.net/problem/18108) | 1998년생인 내가 태국에서는 2541년생?! | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/18xxx/18108.cpp) |
+| [18127](https://www.acmicpc.net/problem/18127) | 모형결정 | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/18xxx/18127.cpp) |
 | [18512](https://www.acmicpc.net/problem/18512) | 점프 점프 | Bronze I | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/18xxx/18512.cpp) |
 | [19944](https://www.acmicpc.net/problem/19944) | 뉴비의 기준은 뭘까? | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/19xxx/19944.cpp) |
 | [21300](https://www.acmicpc.net/problem/21300) | Bottle Return | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/21xxx/21300.cpp) |
