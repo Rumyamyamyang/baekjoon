@@ -22,7 +22,7 @@
 
 # 안내사항
 
-마지막 업데이트: 2024-07-29 23:59:52 (KST)
+마지막 업데이트: 2024-07-31 22:13:15 (KST)
 
 목록이 길기에 단축키 `Ctrl+F`로 문제를 찾아주세요!
 
@@ -150,6 +150,7 @@
 | [15962](https://www.acmicpc.net/problem/15962) | 새로운 시작 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/15xxx/15962.cpp) |
 | [15964](https://www.acmicpc.net/problem/15964) | 이상한 기호 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/15xxx/15964.cpp) |
 | [16394](https://www.acmicpc.net/problem/16394) | 홍익대학교 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/16xxx/16394.cpp) |
+| [16430](https://www.acmicpc.net/problem/16430) | 제리와 톰 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/16xxx/16430.cpp) |
 | [16486](https://www.acmicpc.net/problem/16486) | 운동장 한 바퀴 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/16xxx/16486.cpp) |
 | [16916](https://www.acmicpc.net/problem/16916) | 부분 문자열 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/16xxx/16916.cpp) |
 | [17295](https://www.acmicpc.net/problem/17295) | 엔드게임 스포일러 | Unrated | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/17xxx/17295.cpp) |
