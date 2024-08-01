@@ -22,7 +22,7 @@
 
 # 안내사항
 
-마지막 업데이트: 2024-07-31 23:37:50 (KST)
+마지막 업데이트: 2024-08-01 18:14:22 (KST)
 
 목록이 길기에 단축키 `Ctrl+F`로 문제를 찾아주세요!
 
@@ -79,6 +79,7 @@
 | [2751](https://www.acmicpc.net/problem/2751) | 수 정렬하기 2 | Silver V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02751.cpp) |
 | [2753](https://www.acmicpc.net/problem/2753) | 윤년 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02753.cpp) |
 | [2754](https://www.acmicpc.net/problem/2754) | 학점계산 | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02754.cpp) |
+| [2798](https://www.acmicpc.net/problem/2798) | 블랙잭 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02798.cpp) |
 | [2845](https://www.acmicpc.net/problem/2845) | 파티가 끝나고 난 뒤 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02845.cpp) |
 | [2884](https://www.acmicpc.net/problem/2884) | 알람 시계 | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02884.cpp) |
 | [2908](https://www.acmicpc.net/problem/2908) | 상수 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02908.cpp) |
