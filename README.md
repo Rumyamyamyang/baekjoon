@@ -22,7 +22,7 @@
 
 # 안내사항
 
-마지막 업데이트: 2024-08-01 18:14:22 (KST)
+마지막 업데이트: 2024-08-01 18:39:06 (KST)
 
 목록이 길기에 단축키 `Ctrl+F`로 문제를 찾아주세요!
 
@@ -164,6 +164,7 @@
 | [19944](https://www.acmicpc.net/problem/19944) | 뉴비의 기준은 뭘까? | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/19xxx/19944.cpp) |
 | [21300](https://www.acmicpc.net/problem/21300) | Bottle Return | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/21xxx/21300.cpp) |
 | [23795](https://www.acmicpc.net/problem/23795) | 사장님 도박은 재미로 하셔야 합니다 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/23xxx/23795.cpp) |
+| [23968](https://www.acmicpc.net/problem/23968) | 알고리즘 수업 - 버블 정렬 1 | Bronze I | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/23xxx/23968.cpp) |
 | [24510](https://www.acmicpc.net/problem/24510) | 시간복잡도를 배운 도도 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/24xxx/24510.cpp) |
 | [25083](https://www.acmicpc.net/problem/25083) | 새싹 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/25xxx/25083.cpp) |
 | [25304](https://www.acmicpc.net/problem/25304) | 영수증 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/25xxx/25304.cpp) |
