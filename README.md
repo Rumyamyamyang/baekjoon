@@ -22,7 +22,7 @@
 
 # 안내사항
 
-마지막 업데이트: 2024-08-01 18:39:06 (KST)
+마지막 업데이트: 2024-08-07 08:45:23 (KST)
 
 목록이 길기에 단축키 `Ctrl+F`로 문제를 찾아주세요!
 
@@ -170,6 +170,7 @@
 | [25304](https://www.acmicpc.net/problem/25304) | 영수증 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/25xxx/25304.cpp) |
 | [25314](https://www.acmicpc.net/problem/25314) | 코딩은 체육과목 입니다 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/25xxx/25314.cpp) |
 | [26209](https://www.acmicpc.net/problem/26209) | Intercepting Information | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/26xxx/26209.cpp) |
+| [26489](https://www.acmicpc.net/problem/26489) | Gum Gum for Jay Jay | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/26xxx/26489.cpp) |
 | [26574](https://www.acmicpc.net/problem/26574) | Copier | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/26xxx/26574.cpp) |
 | [27110](https://www.acmicpc.net/problem/27110) | 특식 배부 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/27xxx/27110.cpp) |
 | [27434](https://www.acmicpc.net/problem/27434) | 팩토리얼 3 | Bronze V | [Python](https://github.com/Rumyamyamyang/baekjoon/blob/main/27xxx/27434.py) |
