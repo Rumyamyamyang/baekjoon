@@ -22,7 +22,7 @@
 
 # 안내사항
 
-마지막 업데이트: 2024-08-07 08:45:23 (KST)
+마지막 업데이트: 2024-08-16 21:39:20 (KST)
 
 목록이 길기에 단축키 `Ctrl+F`로 문제를 찾아주세요!
 
@@ -66,6 +66,7 @@
 | [2558](https://www.acmicpc.net/problem/2558) | A+B - 2 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02558.cpp) |
 | [2562](https://www.acmicpc.net/problem/2562) | 최댓값 | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02562.cpp) |
 | [2577](https://www.acmicpc.net/problem/2577) | 숫자의 개수 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02577.cpp) |
+| [2581](https://www.acmicpc.net/problem/2581) | 소수 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02581.cpp) |
 | [2588](https://www.acmicpc.net/problem/2588) | 곱셈 | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02588.cpp) |
 | [2675](https://www.acmicpc.net/problem/2675) | 문자열 반복 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02675.cpp) |
 | [2738](https://www.acmicpc.net/problem/2738) | 행렬 덧셈 | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02738.cpp) |
