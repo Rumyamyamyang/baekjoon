@@ -1,5 +1,3 @@
-// https://x.com/rumya_study/status/1813802666923090343
-
 #include <iostream>
 #include <cmath>
 

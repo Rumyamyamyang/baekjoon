@@ -1,5 +1,3 @@
-// https://x.com/rumya_study/status/1818647702466625606
-
 #include <iostream>
 
 int main()

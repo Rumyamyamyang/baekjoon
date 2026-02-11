@@ -88,7 +88,6 @@ def get_header(handle):
   header += f"[원본 repository](https://github.com/Hiyabye/Baekjoon)\n\n"
   header += f"[MIT License](/LICENSE)\n\n"
   header += "# header comment에 관해서\n\n"
-  header += "`x.com`은 해당 문제를 푼 날짜, 시간과 후기를 볼 수 있습니다! (스포주의)\n\n"
   header += "`Re[문제번호].cpp`라고 적힌건 더 좋은 최적화를 찾고, 다시 풀었을때 적힙니다!\n\n"
   header += "> 해당 파일의 `첫번째 comment`는 좋은 코드를 적으신 블로그 주소를 출처로 적습니다!\n\n"
   header += "# 안내사항\n\n"

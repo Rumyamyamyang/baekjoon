@@ -1,4 +1,3 @@
-// https://x.com/rumya_study/status/1816452437840109943
 // Re15080.cpp
 
 #include <iostream>

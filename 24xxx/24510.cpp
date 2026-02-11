@@ -1,4 +1,3 @@
-// Review : https://x.com/rumya_study/status/1811221819086778764
 
 // Optimize version : https://www.acmicpc.net/source/80862928 
 // This code is slow then this algorithm, but it fits on other string

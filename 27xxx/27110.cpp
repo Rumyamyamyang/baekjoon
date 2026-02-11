@@ -1,4 +1,3 @@
-// https://x.com/rumya_study/status/1813723636358152599
 
 #include <iostream>
 

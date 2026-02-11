@@ -1,5 +1,3 @@
-// https://x.com/rumya_study/status/1816845243200979144
-
 #define TEST false
 
 #include <iostream>
