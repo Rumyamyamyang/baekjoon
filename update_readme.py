@@ -1,4 +1,9 @@
-# scripts/update_readme.py
+# Initial Setting
+### Install Python
+### python -m pip install [module]
+
+# python update_readme.py
+
 # README.md 파일을 자동으로 업데이트 해주는 스크립트
 
 from datetime import datetime, timezone, timedelta

@@ -14,15 +14,13 @@
 
 # header comment에 관해서
 
-`x.com`은 해당 문제를 푼 날짜, 시간과 후기를 볼 수 있습니다! (스포주의)
-
 `Re[문제번호].cpp`라고 적힌건 더 좋은 최적화를 찾고, 다시 풀었을때 적힙니다!
 
 > 해당 파일의 `첫번째 comment`는 좋은 코드를 적으신 블로그 주소를 출처로 적습니다!
 
 # 안내사항
 
-마지막 업데이트: 2024-08-16 21:39:20 (KST)
+마지막 업데이트: 2026-02-11 16:31:14 (KST)
 
 목록이 길기에 단축키 `Ctrl+F`로 문제를 찾아주세요!
 
@@ -72,7 +70,7 @@
 | [2738](https://www.acmicpc.net/problem/2738) | 행렬 덧셈 | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02738.cpp) |
 | [2739](https://www.acmicpc.net/problem/2739) | 구구단 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02739.cpp) |
 | [2741](https://www.acmicpc.net/problem/2741) | N 찍기 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02741.cpp) |
-| [2742](https://www.acmicpc.net/problem/2742) | 기찍 N | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02742.cpp) |
+| [2742](https://www.acmicpc.net/problem/2742) | 기찍 N | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02742.cpp) |
 | [2743](https://www.acmicpc.net/problem/2743) | 단어 길이 재기 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02743.cpp) |
 | [2744](https://www.acmicpc.net/problem/2744) | 대소문자 바꾸기 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02744.cpp) |
 | [2747](https://www.acmicpc.net/problem/2747) | 피보나치 수 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02747.cpp) |
@@ -144,7 +142,7 @@
 | [11720](https://www.acmicpc.net/problem/11720) | 숫자의 합 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/11xxx/11720.cpp) |
 | [11721](https://www.acmicpc.net/problem/11721) | 열 개씩 끊어 출력하기 | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/11xxx/11721.cpp) |
 | [11942](https://www.acmicpc.net/problem/11942) | 고려대는 사랑입니다 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/11xxx/11942.cpp) |
-| [13297](https://www.acmicpc.net/problem/13297) | Quick Estimates | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/13xxx/13297.cpp) |
+| [13297](https://www.acmicpc.net/problem/13297) | Quick Estimates | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/13xxx/13297.cpp) |
 | [14681](https://www.acmicpc.net/problem/14681) | 사분면 고르기 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/14xxx/14681.cpp) |
 | [15080](https://www.acmicpc.net/problem/15080) | Every Second Counts | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/15xxx/15080.cpp) |
 | [15552](https://www.acmicpc.net/problem/15552) | 빠른 A+B | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/15xxx/15552.cpp) |
