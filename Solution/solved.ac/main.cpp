@@ -1,46 +1,42 @@
-// 2026-02-11
+// 2026-02-19
 
 #include <iostream>
-#include <vector>
+#include <map>
+#include <math.h>
 
 int main()
 {
-	unsigned short testCase, roomNum;
+	int testNum, input;
 
-	std::cin >> testCase;
-	
-	for (unsigned short i = 0; i < testCase; ++i)
+	std::cin >> testNum;
+
+	for (int test = 0; test < testNum; ++test)
 	{
-		unsigned short openedRoom = 0;
+		std::map<int, int> primeFactorization;
+		int result = 1;
 
-		// Create room and open all the room
-		std::cin >> roomNum;
+		std::cin >> input;
 
-		std::vector<bool> rooms;
-		rooms.assign(roomNum, true);
-
-		// Do game round
-		for (unsigned short j = 2; j <= roomNum; ++j)
+		// Do primefactorization
+		while (input > 1)
 		{
-			unsigned short index = j;
-
-			while (index <= roomNum)
+			for (int i = 2; i <= static_cast<int>(std::floor(sqrt(input))); ++i)
 			{
-				rooms[index - 1] = !rooms[index - 1];
-				index += j;
-			}
-		}
-		
-		// Count opened room
-		for (bool isOpened : rooms)
-		{
-			if (isOpened)
-			{
-				++openedRoom;
+				if (result % i == 0)
+				{
+					// store i value inside the primeFactorization. if exist, ++value
+					result /= i;
+				}
 			}
 		}
 
-		std::cout << openedRoom << '\n';
+
+		for (std::pair<int, int> powerCheck : primeFactorization)
+		{
+			result *= powerCheck.second;
+		}
+
+		std::cout << testNum << ' ' << result;
 	}
 
 	return 0;

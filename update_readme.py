@@ -95,6 +95,9 @@ def get_header(handle):
   header += "# header comment에 관해서\n\n"
   header += "`Re[문제번호].cpp`라고 적힌건 더 좋은 최적화를 찾고, 다시 풀었을때 적힙니다!\n\n"
   header += "> 해당 파일의 `첫번째 comment`는 좋은 코드를 적으신 블로그 주소를 출처로 적습니다!\n\n"
+  header += "# comment에 관해서\n\n"
+  header += "@라고 표시된 comment는 틀렸을때의 해결 방식을 기술합니다! (실수 체크용)\n\n"
+  header += "몇번째 try인지, 그리고 해당 이유 및 해결 방식을 적습니다!\n\n"
   header += "# 안내사항\n\n"
   header += "마지막 업데이트: "
   header += datetime.now(timezone(timedelta(hours=9))).strftime("%Y-%m-%d %H:%M:%S")
