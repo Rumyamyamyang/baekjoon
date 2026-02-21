@@ -26,7 +26,7 @@
 
 # 안내사항
 
-마지막 업데이트: 2026-02-21 15:56:54 (KST)
+마지막 업데이트: 2026-02-21 17:56:33 (KST)
 
 목록이 길기에 단축키 `Ctrl+F`로 문제를 찾아주세요!
 
@@ -153,6 +153,7 @@
 | [11720](https://www.acmicpc.net/problem/11720) | 숫자의 합 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/11xxx/11720.cpp) |
 | [11721](https://www.acmicpc.net/problem/11721) | 열 개씩 끊어 출력하기 | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/11xxx/11721.cpp) |
 | [11942](https://www.acmicpc.net/problem/11942) | 고려대는 사랑입니다 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/11xxx/11942.cpp) |
+| [13225](https://www.acmicpc.net/problem/13225) | Divisors | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/13xxx/13225.cpp) |
 | [13297](https://www.acmicpc.net/problem/13297) | Quick Estimates | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/13xxx/13297.cpp) |
 | [14645](https://www.acmicpc.net/problem/14645) | 와이버스 부릉부릉 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/14xxx/14645.cpp) |
 | [14681](https://www.acmicpc.net/problem/14681) | 사분면 고르기 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/14xxx/14681.cpp) |
