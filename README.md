@@ -26,7 +26,7 @@
 
 # 안내사항
 
-마지막 업데이트: 2026-02-21 17:56:33 (KST)
+마지막 업데이트: 2026-02-21 18:41:22 (KST)
 
 목록이 길기에 단축키 `Ctrl+F`로 문제를 찾아주세요!
 
@@ -91,6 +91,7 @@
 | [2914](https://www.acmicpc.net/problem/2914) | 저작권 | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02914.cpp) |
 | [2920](https://www.acmicpc.net/problem/2920) | 음계 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02920.cpp) |
 | [2941](https://www.acmicpc.net/problem/2941) | 크로아티아 알파벳 | Silver V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02941.cpp) |
+| [2966](https://www.acmicpc.net/problem/2966) | 찍기 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02966.cpp) |
 | [3003](https://www.acmicpc.net/problem/3003) | 킹, 퀸, 룩, 비숍, 나이트, 폰 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/03xxx/03003.cpp) |
 | [3046](https://www.acmicpc.net/problem/3046) | R2 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/03xxx/03046.cpp) |
 | [3052](https://www.acmicpc.net/problem/3052) | 나머지 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/03xxx/03052.cpp) |
