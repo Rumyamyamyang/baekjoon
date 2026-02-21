@@ -15,7 +15,7 @@ int main()
 
 	int testNum;
 	std::string answer;
-	
+
 	std::cin >> testNum;
 	std::cin >> answer;
 
