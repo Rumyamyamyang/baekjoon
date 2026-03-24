@@ -26,7 +26,7 @@
 
 # 안내사항
 
-마지막 업데이트: 2026-03-10 21:27:08 (KST)
+마지막 업데이트: 2026-03-11 03:12:17 (KST)
 
 목록이 길기에 단축키 `Ctrl+F`로 문제를 찾아주세요!
 
@@ -112,6 +112,7 @@
 | [6359](https://www.acmicpc.net/problem/6359) | 만취한 상범 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/06xxx/06359.cpp) |
 | [6840](https://www.acmicpc.net/problem/6840) | Who is in the middle? | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/06xxx/06840.cpp) |
 | [6887](https://www.acmicpc.net/problem/6887) | Squares | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/06xxx/06887.cpp) |
+| [7130](https://www.acmicpc.net/problem/7130) | Milk and Honey | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/07xxx/07130.cpp) |
 | [7287](https://www.acmicpc.net/problem/7287) | 등록 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/07xxx/07287.cpp) |
 | [7595](https://www.acmicpc.net/problem/7595) | Triangles | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/07xxx/07595.cpp) |
 | [8393](https://www.acmicpc.net/problem/8393) | 합 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/08xxx/08393.cpp) |
@@ -128,6 +129,7 @@
 | [10430](https://www.acmicpc.net/problem/10430) | 나머지 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/10xxx/10430.cpp) |
 | [10699](https://www.acmicpc.net/problem/10699) | 오늘 날짜 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/10xxx/10699.cpp) |
 | [10718](https://www.acmicpc.net/problem/10718) | We love kriii | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/10xxx/10718.cpp) |
+| [10801](https://www.acmicpc.net/problem/10801) | 카드게임 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/10xxx/10801.cpp) |
 | [10807](https://www.acmicpc.net/problem/10807) | 개수 세기 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/10xxx/10807.cpp) |
 | [10809](https://www.acmicpc.net/problem/10809) | 알파벳 찾기 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/10xxx/10809.cpp) |
 | [10810](https://www.acmicpc.net/problem/10810) | 공 넣기 | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/10xxx/10810.cpp) |
@@ -210,6 +212,7 @@
 | [28691](https://www.acmicpc.net/problem/28691) | 정보보호학부 동아리 소개 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/28xxx/28691.cpp) |
 | [28701](https://www.acmicpc.net/problem/28701) | 세제곱의 합 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/28xxx/28701.cpp) |
 | [28702](https://www.acmicpc.net/problem/28702) | FizzBuzz | Bronze I | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/28xxx/28702.cpp) |
+| [29196](https://www.acmicpc.net/problem/29196) | 소수가 아닌 수 2 | Bronze I | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/29xxx/29196.cpp) |
 | [29751](https://www.acmicpc.net/problem/29751) | 삼각형 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/29xxx/29751.cpp) |
 | [30008](https://www.acmicpc.net/problem/30008) | 준영이의 등급 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/30xxx/30008.cpp) |
 | [30030](https://www.acmicpc.net/problem/30030) | 스위트콘 가격 구하기 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/30xxx/30030.cpp) |
