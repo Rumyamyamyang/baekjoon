@@ -26,7 +26,7 @@
 
 # 안내사항
 
-마지막 업데이트: 2026-03-25 02:42:04 (KST)
+마지막 업데이트: 2026-04-03 01:43:02 (KST)
 
 목록이 길기에 단축키 `Ctrl+F`로 문제를 찾아주세요!
 
@@ -51,6 +51,7 @@
 | [1924](https://www.acmicpc.net/problem/1924) | 2007년 | Bronze I | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/01xxx/01924.cpp) |
 | [1978](https://www.acmicpc.net/problem/1978) | 소수 찾기 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/01xxx/01978.cpp) |
 | [2153](https://www.acmicpc.net/problem/2153) | 소수 단어 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02153.cpp) |
+| [2164](https://www.acmicpc.net/problem/2164) | 카드2 | Silver IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02164.cpp) |
 | [2231](https://www.acmicpc.net/problem/2231) | 분해합 | Bronze II | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02231.cpp) |
 | [2309](https://www.acmicpc.net/problem/2309) | 일곱 난쟁이 | Bronze I | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02309.cpp) |
 | [2420](https://www.acmicpc.net/problem/2420) | 사파리월드 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/02xxx/02420.cpp) |
@@ -184,6 +185,7 @@
 | [18512](https://www.acmicpc.net/problem/18512) | 점프 점프 | Bronze I | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/18xxx/18512.cpp) |
 | [19944](https://www.acmicpc.net/problem/19944) | 뉴비의 기준은 뭘까? | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/19xxx/19944.cpp) |
 | [21300](https://www.acmicpc.net/problem/21300) | Bottle Return | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/21xxx/21300.cpp) |
+| [21964](https://www.acmicpc.net/problem/21964) | 선린인터넷고등학교 교가 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/21xxx/21964.cpp) |
 | [23794](https://www.acmicpc.net/problem/23794) | 골뱅이 찍기 - 정사각형 | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/23xxx/23794.cpp) |
 | [23795](https://www.acmicpc.net/problem/23795) | 사장님 도박은 재미로 하셔야 합니다 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/23xxx/23795.cpp) |
 | [23968](https://www.acmicpc.net/problem/23968) | 알고리즘 수업 - 버블 정렬 1 | Bronze I | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/23xxx/23968.cpp) |
@@ -209,6 +211,7 @@
 | [28235](https://www.acmicpc.net/problem/28235) | 코드마스터 2023 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/28xxx/28235.cpp) |
 | [28249](https://www.acmicpc.net/problem/28249) | Chili Peppers | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/28xxx/28249.cpp) |
 | [28295](https://www.acmicpc.net/problem/28295) | 체육은 코딩과목 입니다 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/28xxx/28295.cpp) |
+| [28444](https://www.acmicpc.net/problem/28444) | HI-ARC=? | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/28xxx/28444.cpp) |
 | [28691](https://www.acmicpc.net/problem/28691) | 정보보호학부 동아리 소개 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/28xxx/28691.cpp) |
 | [28701](https://www.acmicpc.net/problem/28701) | 세제곱의 합 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/28xxx/28701.cpp) |
 | [28702](https://www.acmicpc.net/problem/28702) | FizzBuzz | Bronze I | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/28xxx/28702.cpp) |
