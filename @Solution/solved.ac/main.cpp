@@ -1,9 +1,8 @@
-// 2026-04-03
+// 2026-04-08
 
 #include <iostream>
-#include <queue>
+#include <string>
 
-// @ 1 : Time exceeded (Maybe because of std::vector use. std::vector arrange index without deleting last index)
 int main()
 {
 	// -------------Fast cout-------------
@@ -11,33 +10,13 @@ int main()
 	std::cin.sync_with_stdio(false);
 	// -------------Fast cout-------------
 
-	// Initialize deck
-	int max = 0;
-	int temp = 0;
-	std::queue<int> deck;
+	int universityRegionContest, teamsRegionContest, universityTOPC, teamsTOPC;
 
-	std::cin >> max;
+	std::cin >> universityRegionContest >> teamsRegionContest >> universityTOPC >> teamsTOPC;
 
-	for (int i = 1; i <= max; ++i)
-	{
-		deck.push(i);
-	}
-
-
-	// Do a work until size is 1.
-	while (deck.size() != 1)
-	{
-		// Discard first
-		deck.pop();
-
-		// Discard and put it last.
-		temp = deck.front();
-		deck.pop();
-
-		deck.push(temp);
-	}
-
-	std::cout << deck.front();
+	std::cout << 56 * universityRegionContest + 24 * teamsRegionContest + 14 * universityTOPC + 6 * teamsTOPC;
+	
+	
 
 	return 0;
 }

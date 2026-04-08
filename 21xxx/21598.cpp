@@ -9,7 +9,14 @@ int main()
 	std::cin.sync_with_stdio(false);
 	// -------------Fast cout-------------
 
+	int count;
 
+	std::cin >> count;
+
+	for (int i = 0; i < count; ++i)
+	{
+		std::cout << "SciComLove" << '\n';
+	}
 
 
 	return 0;
