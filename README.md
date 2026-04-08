@@ -26,7 +26,7 @@
 
 # 안내사항
 
-마지막 업데이트: 2026-04-03 01:43:02 (KST)
+마지막 업데이트: 2026-04-08 21:00:15 (KST)
 
 목록이 길기에 단축키 `Ctrl+F`로 문제를 찾아주세요!
 
@@ -180,11 +180,14 @@
 | [17295](https://www.acmicpc.net/problem/17295) | 엔드게임 스포일러 | Unrated | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/17xxx/17295.cpp) |
 | [17350](https://www.acmicpc.net/problem/17350) | 2루수 이름이 뭐야 | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/17xxx/17350.cpp) |
 | [17903](https://www.acmicpc.net/problem/17903) | Counting Clauses | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/17xxx/17903.cpp) |
+| [17912](https://www.acmicpc.net/problem/17912) | License to Launch | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/17xxx/17912.cpp) |
 | [18108](https://www.acmicpc.net/problem/18108) | 1998년생인 내가 태국에서는 2541년생?! | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/18xxx/18108.cpp) |
 | [18127](https://www.acmicpc.net/problem/18127) | 모형결정 | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/18xxx/18127.cpp) |
 | [18512](https://www.acmicpc.net/problem/18512) | 점프 점프 | Bronze I | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/18xxx/18512.cpp) |
 | [19944](https://www.acmicpc.net/problem/19944) | 뉴비의 기준은 뭘까? | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/19xxx/19944.cpp) |
+| [20254](https://www.acmicpc.net/problem/20254) | Site Score | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/20xxx/20254.cpp) |
 | [21300](https://www.acmicpc.net/problem/21300) | Bottle Return | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/21xxx/21300.cpp) |
+| [21598](https://www.acmicpc.net/problem/21598) | SciComLove | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/21xxx/21598.cpp) |
 | [21964](https://www.acmicpc.net/problem/21964) | 선린인터넷고등학교 교가 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/21xxx/21964.cpp) |
 | [23794](https://www.acmicpc.net/problem/23794) | 골뱅이 찍기 - 정사각형 | Bronze III | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/23xxx/23794.cpp) |
 | [23795](https://www.acmicpc.net/problem/23795) | 사장님 도박은 재미로 하셔야 합니다 | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/23xxx/23795.cpp) |
@@ -227,3 +230,5 @@
 | [31403](https://www.acmicpc.net/problem/31403) | $A + B - C$ | Bronze IV | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/31xxx/31403.cpp) |
 | [32929](https://www.acmicpc.net/problem/32929) | UOS 문자열 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/32xxx/32929.cpp) |
 | [34411](https://www.acmicpc.net/problem/34411) | M-Climb | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/34xxx/34411.cpp) |
+| [34454](https://www.acmicpc.net/problem/34454) | Roller Coaster Ride | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/34xxx/34454.cpp) |
+| [34721](https://www.acmicpc.net/problem/34721) | 역사를 걸으면 동국이 보이고 | Bronze V | [C++](https://github.com/Rumyamyamyang/baekjoon/blob/main/34xxx/34721.cpp) |
